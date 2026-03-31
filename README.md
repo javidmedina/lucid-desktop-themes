@@ -1,3 +1,3 @@
 # LucidOS Desktop Themes
 
-The Desktop Theme for LucidOS. More varations on later versions maybe?
+Desktop Themes created for LucidOS. More varations on later versions maybe?
